@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inlemnings_uppgift-1", "inlemnings_uppgift-1\inlemnings_uppgift-1.csproj", "{6992657A-8B05-47FA-8B3B-9D56F5530741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6992657A-8B05-47FA-8B3B-9D56F5530741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6992657A-8B05-47FA-8B3B-9D56F5530741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6992657A-8B05-47FA-8B3B-9D56F5530741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6992657A-8B05-47FA-8B3B-9D56F5530741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1737963C-1873-4D4E-8316-8DF027E1C758}
+	EndGlobalSection
+EndGlobal
